@@ -1,0 +1,2 @@
+# TCS
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/40bf9c53608a44aa9463c219aaff2c17)](https://app.codacy.com/app/Swethakadam/TCS?utm_source=github.com&utm_medium=referral&utm_content=Swethakadam/TCS&utm_campaign=Badge_Grade_Dashboard)
